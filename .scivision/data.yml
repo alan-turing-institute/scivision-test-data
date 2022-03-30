@@ -1,6 +1,5 @@
 sources:
   test_image:
       description: Load a single Koala
-      driver: intake_xarray.image.ImageSource
       args:
         urlpath: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cutest_Koala.jpg/262px-Cutest_Koala.jpg'
