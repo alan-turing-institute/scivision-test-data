@@ -1,5 +1,6 @@
 sources:
   test_image:
+      driver:
       description: Load a single Koala
       args:
         urlpath: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cutest_Koala.jpg/262px-Cutest_Koala.jpg'
